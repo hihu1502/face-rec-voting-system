@@ -15,8 +15,7 @@ This project is a **facial recognition-based voting system** using **YOLOv8n** f
 ## 🔧 Tech Stack
 - **Backend**: Python, FastAPI/Django  
 - **Face Detection**: YOLOv8n (Ultralytics)  
-- **Face Recognition**: FaceNet (TensorFlow/PyTorch)  
-- **Database**: SQLite/PostgreSQL (for voter records)  
+- **Face Recognition**: FaceNet (TensorFlow/PyTorch)   
 - **Frontend (Optional)**: HTML + Bootstrap  
 
 ## 📂 Project Structure
