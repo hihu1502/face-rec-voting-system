@@ -19,3 +19,7 @@ This project is a **facial recognition-based voting system** using **YOLOv8n** f
 - **Frontend (Optional)**: HTML + Bootstrap  
 
 ## 📂 Project Structure
+📁 face-recognition-system
+│── 📂 backend          # Django backend (handles face recognition logic)
+│   │── 📂 face_recognition  # YOLOv8n & FaceNet processing
+│   │   │── detector.py      # YOLOv8n face detection logic
