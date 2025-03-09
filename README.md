@@ -23,3 +23,9 @@ This project is a **facial recognition-based voting system** using **YOLOv8n** f
 │── 📂 backend          # Django backend (handles face recognition logic)
 │   │── 📂 face_recognition  # YOLOv8n & FaceNet processing
 │   │   │── detector.py      # YOLOv8n face detection logic
+│   │   │── recognizer.py    # FaceNet face recognition logic
+│   │── 📂 users        # User authentication & face ID management
+│   │   │── models.py   # User model (stores face embeddings)
+│   │   │── views.py    # User authentication views (login/register)
+│   │   │── models.py   # User model (stores face embeddings)
+│   │   │── views.py    # User authentication views (login/register)
