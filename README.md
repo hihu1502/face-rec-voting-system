@@ -36,3 +36,4 @@ This project is a **facial recognition-based voting system** using **YOLOv8n** f
 │── 📂 frontend         # Django + Bootstrap web UI
 │   │── 📂 static       # CSS, JS, images
 │   │   │── styles.css  # Custom styles (if needed)
+│   │── 📂 templates    # HTML templates for web pages
