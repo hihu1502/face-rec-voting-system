@@ -39,5 +39,5 @@ This project is a **facial recognition-based voting system** using **YOLOv8n** f
 │   │── 📂 templates    # HTML templates for web pages
 │   │   │── base.html   # Main Bootstrap template
 │   │   │── login.html  # Login page UI
-│   │   │── register.html  # User registration UI
-│   │   │── dashboard.html  
+│   │   │── register.html   # User registration UI
+│   │   │── dashboard.html    # User dashboard after authentication
