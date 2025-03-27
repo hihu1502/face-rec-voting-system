@@ -42,4 +42,4 @@ This project is a **facial recognition-based voting system** using **YOLOv8n** f
 │   │   │── register.html   # User registration UI
 │   │   │── dashboard.html    # User dashboard after authentication
 │
-│── 
+│─── 📝 README.md
