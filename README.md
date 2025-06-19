@@ -40,11 +40,11 @@ This project is a **facial recognition-based voting system** using **YOLOv8n** f
    
 -   │── views.py   # User authentication views (login/register)
 
-── settings.py
+⚙️ settings.py
 
-── manage.py # Django project entry point
+📃 manage.py # Django project entry point
 
-── requirements.txt # Python dependencies
+🛠️ requirements.txt # Python dependencies
 
 **📂 frontend** # Django + Bootstrap web UI
 
@@ -62,4 +62,4 @@ This project is a **facial recognition-based voting system** using **YOLOv8n** f
    
 -   │── dashboard.html    # User dashboard after authentication
 
-─── 📝 README.md
+📝 README.md
