@@ -26,19 +26,19 @@ This project is a **facial recognition-based voting system** using **YOLOv8n** f
 
 ── **📂 face_recognition** # YOLOv8n & FaceNet processing
 
--   │── detector.py          # YOLOv8n face detection logic
+|   │── detector.py          # YOLOv8n face detection logic
    
--  │── recognizer.py        # FaceNet face recognition logic
+|  │── recognizer.py        # FaceNet face recognition logic
   
-── **📂 users**   # User authentication & face ID management
+|──|── **📂 users**   # User authentication & face ID management
    
--   │── models.py  # User model (stores face embeddings)
+|   │── models.py  # User model (stores face embeddings)
    
--   │── views.py   # User authentication views (login/register)
+|   │── views.py   # User authentication views (login/register)
    
--   │── models.py  # User model (stores face embeddings)
+|   │── models.py  # User model (stores face embeddings)
    
--   │── views.py   # User authentication views (login/register)
+|   │── views.py   # User authentication views (login/register)
 
 ⚙️ settings.py
 
@@ -46,20 +46,20 @@ This project is a **facial recognition-based voting system** using **YOLOv8n** f
 
 🛠️ requirements.txt # Python dependencies
 
-**📂 frontend** # Django + Bootstrap web UI
+|**📂 frontend** # Django + Bootstrap web UI
 
-── **📂 static**   # CSS, JS, images
+   |── **📂 static**   # CSS, JS, images
    
--   │── styles.css  # Custom styles (if needed)
+|   │── styles.css  # Custom styles (if needed)
 
-── **📂 templates**     # HTML templates for web pages
+|   |── **📂 templates**     # HTML templates for web pages
    
--   │── base.html        # Main Bootstrap template
+|   │── base.html        # Main Bootstrap template
    
--   │── login.html       # Login page UI
+|   │── login.html       # Login page UI
    
--   │── register.html    # User registration UI
+|   │── register.html    # User registration UI
    
--   │── dashboard.html    # User dashboard after authentication
+|   │── dashboard.html    # User dashboard after authentication
 
 📝 README.md
